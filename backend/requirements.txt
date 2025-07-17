@@ -2,3 +2,9 @@ llama-cpp-python
 huggingface-hub         
 mysql-connector-python  
 python-dotenv           
+
+fastapi
+uvicorn
+httpx
+axios
+cors
